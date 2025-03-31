@@ -13,7 +13,6 @@ let obj = {
 	name: 'Aleksey',
 	age: 20,
 }
-
 //проверка существования ключа
 // console.log('name' in obj)
 
