@@ -44,7 +44,7 @@ if (number === 0) {
 if (number === 1) {
   alert('Вы ввели число 1');
 }
-if	
+	
 if (number === 2 || number === 3) {
   alert('Вы ввели число 2, а может и 3');
 }
