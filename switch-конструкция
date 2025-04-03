@@ -10,7 +10,7 @@ switch (browser) {
   case 'Firefox':
   case 'Safari':
   case 'Opera':
-    alert( 'Okay we support these browsers too' );
+    alert( 'Okay we support these browsers to' );
     break;
 
   default:
